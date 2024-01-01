@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a PocketMine-MP(PM-5) plugin that logs player joins, leaves, and chat messages to a Discord channel. Develop by two native developers.
+This is a PocketMine-MP(PM-4) plugin that logs player joins, leaves, and chat messages to a Discord channel. Develop by two native developers.
 
 ## Features
 
